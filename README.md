@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shakti AI Platform — Website v3
 
 ## Quick Start
@@ -28,3 +29,6 @@ Create `.env` file:
 ```
 VITE_API_URL=http://localhost:8080/api
 ```
+=======
+# shakti-v3
+>>>>>>> 3c3ed1342cce85d073e8551b37e706150ccf925a
